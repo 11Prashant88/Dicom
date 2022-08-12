@@ -1,0 +1,12 @@
+.tabs{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    list-style: none;
+  
+    .tab{
+      padding: 4px;
+      border: 1px solid black;
+      cursor: pointer;
+    }
+  }
